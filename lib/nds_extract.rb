@@ -27,6 +27,8 @@ end
 def list_of_directors(source)
   # Write this implementation
     director_index = 0
+    director_list = Array.new
+
 
 end
 
