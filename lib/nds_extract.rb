@@ -49,6 +49,9 @@ def total_gross(source)
   
     total_gross_of_earnings = 0
     director_index = 0
+    
+    while director_index < source.size do
+
 
 
 end
