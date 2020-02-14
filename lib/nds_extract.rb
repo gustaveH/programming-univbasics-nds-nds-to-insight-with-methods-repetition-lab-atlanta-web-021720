@@ -3,6 +3,7 @@ require_relative './directors_database'
 
 def directors_totals(source)
     director_index = 0
+    director_list = Array.new
 
   director_index = 0
   while director_index < source.size do
